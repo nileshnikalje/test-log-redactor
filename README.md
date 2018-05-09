@@ -9,8 +9,8 @@ Execute the following commands
 
 3. The output should be displayed as
 
-2018-05-08 11:49:32,583 [main] DEBUG com.test.example.LogMessage1 - From pkg1.LogMessage1 : Mask PASSWORD(ABCD)
-2018-05-08 11:49:32,584 [main] DEBUG org.test.example.LogMessage2 - From pkg2.LogMessage2 : Mask PASSWORD(ABCD)
+2018-05-08 11:49:32,583 [main] DEBUG org.cloudera.LogMessage1 - From pkg1.LogMessage1 : Mask PASSWORD(ABCD)
+2018-05-08 11:49:32,584 [main] DEBUG org.example.LogMessage2 - From pkg2.LogMessage2 : Mask PASSWORD(ABCD)
 
 4. The password ABCD is not masked.
 
